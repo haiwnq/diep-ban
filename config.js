@@ -7,7 +7,7 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi❤️',
     title: 'Dự báo thời tiết nói...Hôm nay có em 🥰',
-    desc: 'Làm bạn gái anh đi. Được thì đồng ý, không được thì để anh nghĩ cách tiếp ',
+    desc: 'Thoát ra hoặc không trả lời thì em làm ngiu anh :> ',
     btnYes: 'Thích lắm <3',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100015646293297
+    messLink: 'https://www.facebook.com/messages/t/100015646293297'
 }
