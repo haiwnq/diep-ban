@@ -1,16 +1,16 @@
 const CONFIG = {
     titleWeb: "Chào em",
-    introTitle: 'Yêu anh khum🥰',
+    introTitle: 'Chào bạn🥰',
     introDesc: `Trái đất vốn lạ thường
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi❤️',
-    title: 'Yêu Diệp không anh ớiiiii🥰',
-    desc: 'Thoát ra hoặc không trả lời thì em làm ngiu anh :> ',
+    title: 'Chào bạn, mình tên là diệp🥰',
+    desc: 'Yêu mình khonggg:> ',
     btnYes: 'Đéo :))',
     btnNo: 'Yêu Diệp <3',
-    question: 'Tại sao anh khongg yêu Diệp :(',
+    question: 'Tại sao bạn khongg yêu Diệp :((',
     btnReply: 'Gửi cho Diệp :<',
     reply: 'Trông Diệp xấu vãi lồn :))',
     mess: 'Haizz, buồn quá :((',
